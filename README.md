@@ -16,3 +16,8 @@ Guided project **DB II** Module.
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor explores schema design with this API.
+
+
+## Additional Notes
+
+- see [rNotes.js](./rNOTES.md)
