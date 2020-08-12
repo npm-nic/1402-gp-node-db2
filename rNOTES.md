@@ -239,10 +239,11 @@ exports.down = function (knex) {
 
    How do you undo changes:question:
 
-   - run the down() funciton...
+   - run the down() function...
 
 4. terminal: `knex migrate:rollback`
+   - this only really applies during development
+   - during production, refer to mantra #2
+     - duplicate, change and replace database
 
 ---
-
-
